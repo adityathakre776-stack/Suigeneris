@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190966766786",
+    "project_id": "safe-cf9b3",
+    "storage_bucket": "safe-cf9b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190966766786:android:7ca1f4683654b71fc96f5b",
+        "android_client_info": {
+          "package_name": "com.emergency.trigger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_91GtWqY2EzwQ4Cxl0yjekrQAIFH990"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
